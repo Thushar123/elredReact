@@ -1,11 +1,14 @@
 import './App.css';
-import Navbar from "./container/Navbar";
+import NavBar from "./container/Navbar";
+import MainSection from "./container/MainSection";
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Navbar />
+        <NavBar />
+        <MainSection />
       </header>
     </div>
   );
