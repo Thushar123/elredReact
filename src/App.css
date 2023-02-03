@@ -263,4 +263,8 @@
   #sidebar .navbar-nav { min-height: auto;}
   #main-view-section .main-view-block .info-text .info-pera { width: 85%;}
   .ant-tabs-tabpane .card {margin-bottom: 16px;}
+  .navbar-dark .navbar-brand { width: 50%;}
+  .navbar-collapse { margin-top: 16px;}
+  #responsive-navbar-nav .checkout {font-size: 11px!important;padding: 6px;}
+  #responsive-navbar-nav .form-select {font-size: 11px!important;}
 }
